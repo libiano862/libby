@@ -2,6 +2,9 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+<<<<<<< HEAD
     <mapping directory="$PROJECT_DIR$/libby" vcs="Git" />
+=======
+>>>>>>> effcd5ee5024db650889e9ff24d92c734e2fc066
   </component>
 </project>
